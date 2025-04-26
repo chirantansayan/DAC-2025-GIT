@@ -4,6 +4,7 @@ public class HelloWorld
 	{
 		System.out.println("Hello World");
 		System.out.println("Branch 2");
+		System.out.println("Branch 1");
 	}
 }
 
